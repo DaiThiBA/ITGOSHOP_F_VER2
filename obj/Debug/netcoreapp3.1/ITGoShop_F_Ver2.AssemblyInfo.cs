@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ITGoShop_F_Ver2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e091effdcd017f7249bbeda6ad237fcde59d5f10")]
 [assembly: System.Reflection.AssemblyProductAttribute("ITGoShop_F_Ver2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ITGoShop_F_Ver2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

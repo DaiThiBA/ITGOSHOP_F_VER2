@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyUIT\\WebAppDemoAz\\ITGoShop\\ITGoShop_F_Ver2.csproj": {}
+    "C:\\Users\\Thi\\Source\\Repos\\ITGOSHOP_F_VER2\\ITGoShop_F_Ver2.csproj": {}
   },
   "projects": {
-    "D:\\MyUIT\\WebAppDemoAz\\ITGoShop\\ITGoShop_F_Ver2.csproj": {
+    "C:\\Users\\Thi\\Source\\Repos\\ITGOSHOP_F_VER2\\ITGoShop_F_Ver2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyUIT\\WebAppDemoAz\\ITGoShop\\ITGoShop_F_Ver2.csproj",
+        "projectUniqueName": "C:\\Users\\Thi\\Source\\Repos\\ITGOSHOP_F_VER2\\ITGoShop_F_Ver2.csproj",
         "projectName": "ITGoShop_F_Ver2",
-        "projectPath": "D:\\MyUIT\\WebAppDemoAz\\ITGoShop\\ITGoShop_F_Ver2.csproj",
-        "packagesPath": "C:\\Users\\ENVY\\.nuget\\packages\\",
-        "outputPath": "D:\\MyUIT\\WebAppDemoAz\\ITGoShop\\obj\\",
+        "projectPath": "C:\\Users\\Thi\\Source\\Repos\\ITGOSHOP_F_VER2\\ITGoShop_F_Ver2.csproj",
+        "packagesPath": "C:\\Users\\Thi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Thi\\Source\\Repos\\ITGOSHOP_F_VER2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ENVY\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Thi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -83,7 +90,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -95,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
